@@ -1,7 +1,6 @@
 # Gestionnaire de Mots de Passe
 
-Ce projet est un **Gestionnaire de Mots de Passe** développé en Python. Il permet de générer, stocker et afficher des mots de passe de manière sécurisée grâce à une interface graphique construite avec Tkinter.
-
+Ce projet est un **Gestionnaire de Mots de Passe** développé en Python. Il permet de générer, stocker et afficher des mots de passe 
 ## Fonctionnalités
 
 - **Génération de mots de passe sécurisés** : Création de mots de passe aléatoires avec lettres, chiffres et caractères spéciaux.
