@@ -1,6 +1,6 @@
-# Gestionnaire de Mots de Passe
+# Gestionnaire de mots de passe
 
-Ce projet est un Gestionnaire de Mots de Passe développé en Python. Il permet de générer, stocker et afficher des mots de passe 
+Ce projet est un Gestionnaire de Mdp développé en Python. Il permet de générer, stocker et afficher des mots de passe 
 ## Fonctionnalités
 
 - **Génération de mots de passe sécurisés** : Création de mots de passe aléatoires avec lettres, chiffres et caractères spéciaux.
