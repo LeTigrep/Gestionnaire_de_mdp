@@ -10,9 +10,9 @@ Ce projet est un **Gestionnaire de Mots de Passe** développé en Python. Il per
 
 ## Technologies Utilisées
 
-- **Python** : Langage principal utilisé pour la logique de gestion de mots de passe.
-- **Tkinter** : Bibliothèque graphique pour créer l'interface utilisateur.
-- **JSON** : Format de fichier pour sauvegarder les données de manière structurée.
+- **Python**
+- **Tkinter** 
+- **JSON** : Pour sauvegarder les données de manière structurée.
 - **Pyperclip** : Permet de copier du texte dans le presse-papier.
 
 ## Prérequis
